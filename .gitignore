@@ -1,0 +1,11 @@
+/build/
+CMakeFiles/
+Makefile
+*.cmake
+.project
+.*history
+.cproject
+*.dSYM/
+CMakeCache.txt
+*.swp
+.settings/
